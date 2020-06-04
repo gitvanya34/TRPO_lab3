@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a500fb78-0cbb-4de8-a11f-068e13511785" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUQKU9bz0tNSScOK1PcXF2OIsV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3.7/3.7.iml" />
+  </component>
+  <component name="RunManager" selected="Application.lab3_3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="lab3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3_2" />
+      <module name="lab3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab3_3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3_3" />
+      <module name="lab3.1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3_4" />
+      <module name="lab3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.lab3_3" />
+      <item itemvalue="Application.lab3_2" />
+      <item itemvalue="Application.lab3_4" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lab3_2" />
+        <item itemvalue="Application.lab3_4" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a500fb78-0cbb-4de8-a11f-068e13511785" name="Default Changelist" comment="" />
+      <created>1584891128281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584891128281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585034636529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585034636529" />
+    <state x="730" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586209052483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586209052483" />
+    <state x="676" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1586209193532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="238" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586209193532" />
+    <state x="267" y="275" key="FileChooserDialogImpl" timestamp="1586245636431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586245636431" />
+    <state width="916" height="154" key="GridCell.Tab.0.bottom" timestamp="1587474382066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="154" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587474382066" />
+    <state width="916" height="154" key="GridCell.Tab.0.center" timestamp="1587474382066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="154" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587474382066" />
+    <state width="916" height="154" key="GridCell.Tab.0.left" timestamp="1587474382066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="154" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587474382066" />
+    <state width="916" height="154" key="GridCell.Tab.0.right" timestamp="1587474382066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="154" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587474382066" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1584904492909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584904492909" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1584904492909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584904492909" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1584904492909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584904492909" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1584904492909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584904492909" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587470420942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587470420942" />
+    <state x="0" y="144" key="new project wizard" timestamp="1586017017259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586017017259" />
+    <state x="205" y="237" key="run.anything.popup" timestamp="1585254672213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="205" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585254672213" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab3_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1585033985400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
